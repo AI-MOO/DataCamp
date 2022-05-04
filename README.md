@@ -15,7 +15,7 @@
 | 11.     | [Python Data Science Toolbox (Part 2)](Data_Scientist_with_Python/11-Python_Data_Science_Toolbox_(Part%202))|✅|
 | 12.     | [Intermediate Data Visualization with Seaborn](Data_Scientist_with_Python/12-Intermediate_Data_Visualization_with_Seaborn)|✅|
 | 13.     | [A Visual History of Nobel Prize Winners](Data_Scientist_with_Python/13_A_Visual_History_of_Nobel_Prize_Winners)|✅|
-| 14.     | [Data Manipulation with Python]()|⏳|
+| 14.     | [Data Manipulation with Python](Data_Scientist_with_Python/14-Data_Manipulation_with_Python)|✅|
 | 15.     | [Introduction to Importing Data in Python]()|⏳|
 | 16.     | [Intermediate Importing Data in Python]()||
 | 17.     | [Cleaning Data in Python]()||
