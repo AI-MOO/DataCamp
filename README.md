@@ -15,22 +15,22 @@
 | 11.     | [Python Data Science Toolbox (Part 2)](Data_Scientist_with_Python/11-Python_Data_Science_Toolbox_(Part%202))|✅|
 | 12.     | [Intermediate Data Visualization with Seaborn](Data_Scientist_with_Python/12-Intermediate_Data_Visualization_with_Seaborn)|✅|
 | 13.     | [A Visual History of Nobel Prize Winners](Data_Scientist_with_Python/13_A_Visual_History_of_Nobel_Prize_Winners)|✅|
-| 14.     | []()|⏳|
-| 15.     | []()||
-| 16.     | []()||
-| 17.     | []()||
-| 18.     | []()||
-| 19.     | []()||
-| 20.     | []()||
-| 21.     | []()||
-| 22.     | []()||
-| 23.     | []()||
-| 24.     | []()||
-| 25.     | []()||
-| 26.     | []()||
-| 27.     | []()||
-| 28.     | []()||
-| 29.     | []()||
-| 30.     | []()||
-| 31.     | []()||
-| 32.     | []()||
+| 14.     | [Data Manipulation with Python]()|⏳|
+| 15.     | [Introduction to Importing Data in Python]()|⏳|
+| 16.     | [Intermediate Importing Data in Python]()||
+| 17.     | [Cleaning Data in Python]()||
+| 18.     | [Working with Dates and Times in Python]()||
+| 19.     | [Importing and Cleaning with Python]()||
+| 20.     | [Writing Functions in Python]()||
+| 21.     | [Python Programming]()||
+| 22.     | [Exploratory Data Analysis in Python]()||
+| 23.     | [Analyzing Police Activity with pandas]()||
+| 24.     | [Statistical Thinking in Python (Part 1)]()||
+| 25.     | [Statistical Thinking in Python (Part 2)]()||
+| 26.     | [Dr. Semmelweis and the Discovery of Handwashing]()||
+| 27.     | [Supervised Learning with scikit-learn]()||
+| 28.     | [Predicting Credit Card Approvals]()||
+| 29.     | [Unsupervised Learning in Python]()||
+| 30.     | [Machine Learning with Tree-Based Models in Python]()||
+| 31.     | [Case Study: School Budgeting with Machine Learning in Python]()||
+| 32.     | [Cluster Analysis in Python]()||
