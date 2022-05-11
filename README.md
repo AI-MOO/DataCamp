@@ -16,9 +16,9 @@
 | 12.     | [Intermediate Data Visualization with Seaborn](Data_Scientist_with_Python/12-Intermediate_Data_Visualization_with_Seaborn)|✅|
 | 13.     | [A Visual History of Nobel Prize Winners](Data_Scientist_with_Python/13_A_Visual_History_of_Nobel_Prize_Winners)|✅|
 | 14.     | [Data Manipulation with Python](Data_Scientist_with_Python/14-Data_Manipulation_with_Python)|✅|
-| 15.     | [Introduction to Importing Data in Python](Data_Scientist_with_Python/15-Introduction_to_Importing_Data_in_Python)|⏳|
-| 16.     | [Intermediate Importing Data in Python]()||
-| 17.     | [Cleaning Data in Python]()||
+| 15.     | [Introduction to Importing Data in Python](Data_Scientist_with_Python/15-Introduction_to_Importing_Data_in_Python)|✅|
+| 16.     | [Intermediate Importing Data in Python](Data_Scientist_with_Python/16-Intermediate_Importing_Data_in_Python)|✅|
+| 17.     | [Cleaning Data in Python](Data_Scientist_with_Python/17-Cleaning_Data_in_Python)|⏳|
 | 18.     | [Working with Dates and Times in Python]()||
 | 19.     | [Importing and Cleaning with Python]()||
 | 20.     | [Writing Functions in Python]()||
